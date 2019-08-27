@@ -1,0 +1,8 @@
+{
+  "hello": "Hello i18n in json file!",
+  "message": "hello i18n !!",
+  "language switcher": "Choose your language",
+  "welcome": "Welcome!",
+  "yes-button": "Yes",
+  "no-button": "No!"
+}
